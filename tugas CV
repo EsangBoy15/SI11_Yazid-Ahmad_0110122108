@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <style>
+    table,
+    td {
+      border: 1px solid rgb(255, 115, 0);
+      margin-left: 4rem;
+    }
+  </style>
+  <body>
+<IMG src="Foto dari 𝚈𝚊𝚣𝚒𝚍.jpg" width="100PX">
+    <h1 style="text-align: center">Curriculum Vitae</h1>
+    <table style="width: 100%">
+      <caption style="color: white; background-color: rgb(255, 145, 0)">
+        Detail Pribadi
+      </caption>
+      <tr>
+        <td>Nama</td>
+        <td>Yazid Ahmad Ridho Alhafiezd</td>
+      </tr>
+      <tr>
+        <td>Tempat Tanggal Lahir</td>
+        <td>Jakarta, 12 November 2002</td>
+      </tr>
+      <tr>
+        <td>Gender</td>
+        <td>Laki-laki</td>
+      </tr>
+      <tr>
+        <td>NIM</td>
+        <td>0110122108</td>
+      </tr>
+      <tr>
+        <td>Alamat</td>
+        <td>Komplek taman mutiara Blok b No 9 ciledug Tangerang</td>
+      </tr>
+      <tr>
+        <td>Agama</td>
+        <td>Islam</td>
+      </tr>
+      <tr>
+        <td>Warga Negara</td>
+        <td>Indonesia</td>
+      </tr>
+    </table>
+
+    <br />
+
+    <style>
+      table,
+      td {
+        border: 1px solid rgb(255, 102, 0);
+        margin-left: 1rem;
+      }
+    </style>
+    <table style="width: 100%">
+      <caption style="color: white; background-color: rgb(255, 102, 0)">
+        Detail Pendidikan
+      </caption>
+      <tr>
+        <th>TK</th>
+        <td>TK Raudhatul Jannah</td>
+      </tr>
+      <tr>
+        <th>SD</th>
+        <td>MI Assalam Riyadhul Jannah</td>
+      </tr>
+      <tr>
+        <th>SMP</th>
+        <td>SMPIT Ibnu Umar</td>
+      </tr>
+      <tr>
+        <th>SMA</th>
+        <td>SMAS Riyadhussholihiin</td>
+      </tr>
+    </table>
+  </body>
+</html>
